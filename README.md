@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pavanviky , https://drive.google.com/drive/folders/1fkV4REMkm9IQgMOVR-myoJzrE46Bonao?usp=drive_link](https://github.com/Pavanviky , https://drive.google.com/drive/folders/1fkV4REMkm9IQgMOVR-myoJzrE46Bonao?usp=drive_link)
 
-- 💬 Ask me about **eactJS, MERN stack , Artificial Intelligence , Machine Learning**
+- 💬 Ask me about **ReactJS, MERN stack , Artificial Intelligence , Machine Learning**
 
 - 📫 How to reach me **06pavann@gmail.com**
 
